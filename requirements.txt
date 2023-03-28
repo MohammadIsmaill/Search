@@ -1,5 +1,6 @@
 ﻿Flask==2.1.0
 cmake==3.26.1
+swig==4.1.1
 sentence-transformers==2.1.0
 faiss-cpu==1.7.0
 pyspellchecker==0.6.2
